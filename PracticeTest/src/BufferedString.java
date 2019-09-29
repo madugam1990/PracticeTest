@@ -8,7 +8,7 @@ public class BufferedString {
 		}
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		//calling the methodrev
 		methodrev("Madugam");
 	}
 
